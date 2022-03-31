@@ -1,0 +1,54 @@
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.titulo-inicio {
+    background-color: coral;
+    margin-bottom: 100x;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.menu li {
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    padding: 0;
+    height: 10px;
+    width: 100px;
+    max-width: 100px;
+    margin: 70px;
+    text-align: center;
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+}
+h2{ 
+    text-align: center;
+}
+.fotoEmi {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+p {
+
+    display: flex;
+    line-height: 1.5;
+}
+
+
+.fotoLean {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
