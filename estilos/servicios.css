@@ -35,7 +35,8 @@ padding-right: .9375rem;
 text-align: justify;}
 
 h3{
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .serv{
     text-align: justify;
